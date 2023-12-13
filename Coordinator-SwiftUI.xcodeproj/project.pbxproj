@@ -16,6 +16,8 @@
 		F27C971D2B29FD3D00B70B77 /* LemonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27C971C2B29FD3D00B70B77 /* LemonView.swift */; };
 		F27C971F2B29FD4B00B70B77 /* OliveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27C971E2B29FD4B00B70B77 /* OliveView.swift */; };
 		F27C97212B29FD5600B70B77 /* CarrotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27C97202B29FD5600B70B77 /* CarrotView.swift */; };
+		F27C97232B29FEC600B70B77 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27C97222B29FEC600B70B77 /* Coordinator.swift */; };
+		F27C97252B2A00C800B70B77 /* CoordinatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27C97242B2A00C800B70B77 /* CoordinatorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		F27C971C2B29FD3D00B70B77 /* LemonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonView.swift; sourceTree = "<group>"; };
 		F27C971E2B29FD4B00B70B77 /* OliveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OliveView.swift; sourceTree = "<group>"; };
 		F27C97202B29FD5600B70B77 /* CarrotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarrotView.swift; sourceTree = "<group>"; };
+		F27C97222B29FEC600B70B77 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		F27C97242B2A00C800B70B77 /* CoordinatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinatorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,8 @@
 				F27C97202B29FD5600B70B77 /* CarrotView.swift */,
 				F27C971C2B29FD3D00B70B77 /* LemonView.swift */,
 				F27C971E2B29FD4B00B70B77 /* OliveView.swift */,
+				F27C97222B29FEC600B70B77 /* Coordinator.swift */,
+				F27C97242B2A00C800B70B77 /* CoordinatorView.swift */,
 				F27C970E2B29FCFB00B70B77 /* Assets.xcassets */,
 				F27C97102B29FCFB00B70B77 /* Preview Content */,
 			);
@@ -152,6 +158,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F27C97232B29FEC600B70B77 /* Coordinator.swift in Sources */,
+				F27C97252B2A00C800B70B77 /* CoordinatorView.swift in Sources */,
 				F27C970D2B29FCFA00B70B77 /* ContentView.swift in Sources */,
 				F27C97192B29FD2500B70B77 /* BananaView.swift in Sources */,
 				F27C971F2B29FD4B00B70B77 /* OliveView.swift in Sources */,
